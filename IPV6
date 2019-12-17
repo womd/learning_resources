@@ -1,0 +1,7 @@
+
+DNS for IPV6 // SSL Certs for IPV6
+You can use IPv6address.has-a.name as a domain name for any of your containers or VMs.
+The required format is 1234-5678-9abc-def0-1234-5678-9abc-def0.has-a.name.
+This is already a valid name and points to the IPv6 address 1234:5678:9abc:def0:1234:5678:9abc:def0.
+https://ungleich.ch/u/blog/has-a-name-for-every-ipv6-address/
+
